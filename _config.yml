@@ -1,3 +1,7 @@
+# Specifying Kramdown interpreter to be compliant with Github.
+# Default Maruku interpreter is obsolete. See https://help.github.com/articles/migrating-your-pages-site-from-maruku
+markdown: kramdown
+
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -8,14 +12,20 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title : AFRL LabHack
+tagline: Data2Decisions
+authors :
+  dave:
+    name : Dave Caraway
+    display_name: Dave
+    email : david.caraway@gsa.gov
+    github : dwcaraway
+    twitter : davecaraway
+    gravatar: 327a45230b89466db8074fbc55407788
+    web: http://18f.gsa.gov
+  brian:
+    name : Brian Tabares
+    email : brian.tabares.1@us.af.mil
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
