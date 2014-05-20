@@ -10,10 +10,10 @@ LabHack is the first Air Force hackathon, happening 12 - 13 July 2014 at Wright 
 ## What is a Hackathon?
 
 Some description
-aslkdjflasdlfkjli
 
 ## Schedule
 
+Some schedule
 
 ## Rules
 
