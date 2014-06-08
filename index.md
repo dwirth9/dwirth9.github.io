@@ -6,19 +6,19 @@ tagline: Data2Decisions
 {% include JB/setup %}
 
 <h1 style="text-align: left;">AFRL's LabHack</h1>
-<h2 style="text-align: left;">12 - 13 July 2014</h2>
+<h2 style="text-align: left;">25 - 26 October 2014</h2>
 <p style="padding-left: 60px; text-align: left;"><a title="Labhack Registration" href="http://www.eventbrite.com/e/labhack-tickets-11292755937"><img class="size-full wp-image-2138" src="http://wbi-icc.com/wp-content/uploads/2014/04/button-1.png" alt="Register Here" width="146" height="44" /></a></p>
 <p style="text-align: left;">(Can't access the registration page above? <a href="https://einvitations.afit.edu/inv/index.cfm?i=194090&amp;k=036846097257">Try our alternate registration site</a>)</p>
 
 <ul>
 	<li><strong>What:</strong> A 26-hour hackathon around sensor data</li>
-	<li><strong>When:</strong> Saturday, 12 July 2014 - Sunday, 13 July 2014</li>
+	<li><strong>When:</strong> Saturday, 25 October 2014 - Sunday, 26 October 2014</li>
 	<li><strong>Where:</strong> WBI Tec^Edge Innovation and Collaboration Center</li>
 	<li><strong>Why:</strong> To learn something new, build something awesome and have fun!</li>
 	<li><strong>Who:</strong> This event is open to the public. Anyone, military or civilian, may participate</li>
 </ul>
 <h2>Challenges</h2>
-Challenges will be posted one day prior to the start of the event on Friday, 11 July 2014.
+Challenges will be posted one day prior to the start of the event on Friday, 24 October 2014.
 <h2>Prizes</h2>
 Cash prizes will be available. We'll announce details closer to the event.
 <h2>Competition Rules</h2>
@@ -50,23 +50,23 @@ Cash prizes will be available. We'll announce details closer to the event.
 <th>Topic</th>
 </tr>
 <tr>
-<td>Monday, 7 July 2014, 6-7PM</td>
+<td>Monday, 20 October 2014, 6-7PM</td>
 <td><strong><a href="http://www.github.com">Github</a></strong></td>
 </tr>
 <tr>
-<td>Tuesday, 8 July 2014, 6-7PM</td>
+<td>Tuesday, 21 October 2014, 6-7PM</td>
 <td><strong>Data Visualization Tools</strong></td>
 </tr>
 <tr>
-<td>Wednesday, 9 July 2014, 6-7PM</td>
+<td>Wednesday, 22 October 2014, 6-7PM</td>
 <td><strong>Intro to Real-Time Analysis</strong></td>
 </tr>
 <tr>
-<td>Thursday, 10 July 2014, 6-7PM</td>
+<td>Thursday, 23 October 2014, 6-7PM</td>
 <td><strong>Intro to Data Mining Tools</strong></td>
 </tr>
 <tr>
-<td>Friday, 11 July 2014, 6-8:30PM</td>
+<td>Friday, 24 October 2014, 6-8:30PM</td>
 <td><strong>The Art of Teaming (6-7PM)</strong></td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ Cash prizes will be available. We'll announce details closer to the event.
 
 <h2></h2>
 <h2>Hackathon Schedule</h2>
-<h3>Saturday, 12 July 2014</h3>
+<h3>Saturday, 25 October 2014</h3>
 <table>
 <tbody>
 <tr>
@@ -144,7 +144,7 @@ Cash prizes will be available. We'll announce details closer to the event.
 </tr>
 </tbody>
 </table>
-<h3>Sunday, 13 July 2014</h3>
+<h3>Sunday, 26 October 2014</h3>
 <table>
 <tbody>
 <tr>
