@@ -185,3 +185,14 @@ Cash prizes will be available. We'll announce details closer to the event.
 <a href="http://redwall.us"><img class="aligncenter size-full wp-image-2191" src="http://wbi-icc.com/wp-content/uploads/2014/04/Redwall_logo_with_text_300_300.png" alt="redwall technology logo" width="145" height="150" /></a>
 
 <a href="http://tenet3.com/"><img class="aligncenter size-medium wp-image-2195" src="http://wbi-icc.com/wp-content/uploads/2014/04/Tenet3_Web-300x67.png" alt="Tenet3 logo, a Dayton based cyber security analytics company" width="300" height="67" /></a>
+
+FAQ (Frequently Asked Questions)
+================================
+* Can high school students attend?
+
+Yes! We'd love to have younger students involved with the event. Minor attendees under the age of 18 need to be accompanied by an adult and are not allowed to stay over night on site.
+
+* Did the event dates change? I'm seeing dates for July on a flyer but October on the website.
+
+Yes, we pushed the event back to 25 - 26 October 2014 to allow more students to attend and to not interfere with family / Summer vacations.
+
