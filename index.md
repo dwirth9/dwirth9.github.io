@@ -190,9 +190,26 @@ FAQ (Frequently Asked Questions)
 ================================
 * Can high school students attend?
 
-Yes! We'd love to have younger students involved with the event. Minor attendees under the age of 18 need to be accompanied by an adult and are not allowed to stay over night on site.
+	+ Yes! We'd love to have younger students involved with the event. Attendees under the age of 18 need to be accompanied by an adult guardian and are not allowed to stay over night (between 11PM and 6AM) on site.
 
 * Did the event dates change? I'm seeing dates for July on a flyer but October on the website.
 
-Yes, we pushed the event back to 25 - 26 October 2014 to allow more students to attend and to not interfere with family / Summer vacations.
+	+ Yes, we pushed the event back to 25 - 26 October 2014 to allow more students to attend and to not interfere with family / Summer vacations.
 
+* If I do the overnight session, will there be sleeping arrangements provided?
+
+	+ Yes, we will provide male and female sleeping quarters; participants will need to bring sleeping bags.
+
+* How big is the competition expected to be?
+
+	+ We expect to have between 50 and 75 participants. 
+
+* What programming languages will be used? (MATLAB, C/C++, Python, etc.)
+
+	+ Programming languages are at the discretion of the participants. Our only requirement is that they are free and open source languages available to all participants. 
+
+* What is the differentiation between Developer, Designer, and Data Scientist?
+
+	+ **Developer:** Someone who generally focuses on product functionality and infrastructure (hosting and deployment). Has a background in computer science and engineering.
+	+ **Designer:** Someone who generally focuses on the look and feel as well as usability and experience of using the product. Has a background in art, graphic design and human factors.
+	+ **Data Scientist:** Someone who generally focuses on the data in particular: storage, cleaning/processing, mining/association and visualization. Has a background in statistics, mathematics and computer science.
