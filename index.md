@@ -213,3 +213,7 @@ FAQ (Frequently Asked Questions)
 	+ **Developer:** Someone who generally focuses on product functionality and infrastructure (hosting and deployment). Has a background in computer science and engineering.
 	+ **Designer:** Someone who generally focuses on the look and feel as well as usability and experience of using the product. Has a background in art, graphic design and human factors.
 	+ **Data Scientist:** Someone who generally focuses on the data in particular: storage, cleaning/processing, mining/association and visualization. Has a background in statistics, mathematics and computer science.
+
+* Will computers be provided
+
+	+ No, participants are expected to bring their own computing devices. We'll have ample wired and wireless network connections and breakout rooms for teams to work.
